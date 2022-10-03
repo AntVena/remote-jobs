@@ -572,6 +572,7 @@ Name | Website | Region
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
 [Swimlane](/company-profiles/swimlane.md) | https://www.swimlane.com | USA
+[Synerty](/company-profiles/synerty.md) | https://www.synerty.com | Aus, Nz
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) | https://tag1consulting.com/ | Worldwide
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
